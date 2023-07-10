@@ -1,0 +1,20 @@
+body{
+    background-color: white;
+    text-align: center;
+    font-family: '俐方體11号';
+    font-size: 20pt;
+}
+
+a:hover, a:visited, a:link, a:active{
+    text-decoration: none;
+    color:black;
+}
+
+a{
+    padding: 3px;
+    border: 2px solid black;
+}
+
+img{
+    width: 23%;
+}
